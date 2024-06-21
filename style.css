@@ -1,0 +1,112 @@
+body {
+    font-family: Arial, sans-serif;
+  }
+  
+  #container {
+    max-width: 600px;
+    margin: 0 auto;
+    padding: 20px;
+  }
+  
+  form {
+    margin-bottom: 20px;
+  }
+  
+  input, select, textarea {
+    display: block;
+    width: 100%;
+    padding: 10px;
+    margin-bottom: 10px;
+  }
+  
+  button {
+    padding: 10px 20px;
+    background-color: #007bff;
+    color: white;
+    border: none;
+    cursor: pointer;
+  }
+  
+  button:hover {
+    background-color: #0056b3;
+  }
+  
+  #dashboard {
+    display: none;
+  }
+  body {
+    font-family: Arial, sans-serif;
+    background-image: url() png-transparent-logo-enterprises-miscellaneous-angle-company-thumbnail.png
+    background-size: cover;
+    background-position: center;
+    background-repeat: no-repeat;
+    margin: 0;
+    padding: 0;
+    height: 100vh;
+  }
+  
+  #container {
+    max-width: 600px;
+    margin: 0 auto;
+    paground-color: rgba(255, 255, 255, 0.8); /* Fundo branco semi-transparente */
+    border-radius: 10px;dding: 20px;
+    back
+    box-shadow: 0 0 10px rgba(0, 0, 0, 0.1);
+  }
+  
+  form {
+    margin-bottom: 20px;
+  }
+  
+  input, select, textarea {
+    display: block;
+    width: 100%;
+    padding: 10px;
+    margin-bottom: 10px;
+    border: 1px solid #ccc;
+    border-radius: 5px;
+  }
+  
+  button {
+    padding: 10px 20px;
+    background-color: #007bff;
+    color: white;
+    border: none;
+    border-radius: 5px;
+    cursor: pointer;
+  }
+  
+  button:hover {
+    background-color: #0056b3;
+  }
+  
+  #dashboard {
+    display: none;
+  }
+  
+  h2 {
+    text-align: center;
+  }
+  
+  h1 {
+    text-align: center;
+  }
+  
+  #logout {
+    display: block;
+    margin: 0 auto;
+    background-color: #dc3545;
+  }
+  
+  #logout:hover {
+    background-color: #c82333;
+    #logo-container {
+        background-image:url()png-transparent-logo-enterprises-miscellaneous-angle-company-thumbnail.png
+        background-size: cover;
+        background-position: center;
+        background-repeat: no-repeat;
+        height: 100vh; /* Altura da tela */
+        display: flex;
+        justify-content: center;
+        align-items: center;
+      }
